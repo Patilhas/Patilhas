@@ -1,8 +1,6 @@
 ### Hi there, I'm Daniel - aka **Patilhas** 👋 
 ## I'm a current student in Portugal and Developer on free time!!
-
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
