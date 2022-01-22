@@ -1,4 +1,4 @@
-### Hi there, I'm Danial - aka **Patilhas** 👋 
+### Hi there, I'm Daniel - aka **Patilhas** 👋 
 ## I'm a current student in Portugal and Developer on free time!!
 
 <br />
@@ -18,9 +18,9 @@
 
 ---
 
-### 💻 Current Projects:
+## 💻 Current Projects:
 
-# Dev at **2Play FTW RP** (FiveM Server) (Developing V2)
+### Dev at **2Play FTW RP** (FiveM Server) (Developing V2)
 [<img align="left" alt="Website" width="26px" src="https://2playrp.pt/imgs/page/logo_without_text.png" />][website]
 [<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" />][discord]
 [<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/instagram/instagram.png" />][instagram]
