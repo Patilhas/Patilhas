@@ -1,39 +1,82 @@
-### Hi there, I'm Daniel - aka **Patilhas** 👋 
-## I'm a current student in Portugal and Developer on free time!!
-<br />
 
-### Languages and Tools:
+<div align="center">
+<img src="https://media.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif" align="center" height="" width="800" />
+</div>  
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
-<br />
 
----
+### <div align="center">Hi 👋, my name is Daniel Santos but most of the persons know me as Patilhas</div>  
+  
 
-<br />
+- 🎓 I'm a 17 year old finishing High School with the objetive to take Computer Science  
+  
 
-## 💻 Projects:
+- 🔭 I’m currently working on a portuguese FiveM RP server named [2Play FTW RP](https://2playrp.pt/)  
+  
 
-### - Dev at **2Play FTW RP** (FiveM Server) (2021-2023)
-[<img align="left" alt="Website" width="26px" src="https://2playrp.pt/imgs/page/logo_without_text.png" />][website]
-[<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" />][discord]
-[<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/instagram/instagram.png" />][instagram]
-[<img align="left" alt="Twitch" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/twitch/twitch.png" />][twitch]
-[<img align="left" alt="TikTok" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tiktok/tiktok.png" />][tiktok]
-[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/twitter/twitter.png" />][twitter]
-[<img align="left" alt="Youtube" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/youtube/youtube.png" />][youtube]
+- 🌱 I’m currently learning Next.JS, Prisma and PostgreSQL  
+  
 
-[website]: (https://2playrp.pt)
-[discord]: (https://discord.me/2playftwrp)
-[instagram]: (https://www.instagram.com/2playftwrp)
-[twitch]: (https://www.twitch.tv/2playroleplay)
-[tiktok]: (https://www.tiktok.com/@2playftwroleplay)
-[twitter]: (https://twitter.com/2playrp)
-[youtube]: (https://www.youtube.com/channel/UCXzidRypaSW29cEvUo_TE6w/featured)
+- ⚡ Fun fact: I like to eat 🍣  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+</div>  
+
+### Others
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+</td><td valign="top" width="33%">
+
+### Backend  
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+### Programming Languages  
+<div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=patilhas&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=patilhas&&style=flat-square" align="center" />
+</div>  
