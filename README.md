@@ -7,13 +7,13 @@
 ### <div align="center">Hi 👋, my name is Daniel Santos but most of the persons know me as Patilhas</div>  
   
 
-- 🎓 I'm a 18 year old taking Computer Science in College
+- 🎓 I'm a 19 year old taking Computer Science in College.
   
 
-- 🔭 I’m currently working on a portuguese FiveM RP server named [2Play RP](https://2playrp.pt/)  
+- 🔭 I worked on a portuguese FiveM RP server named [2Play RP](https://2playrp.pt/) where I started as a developer and ended as the Head Developer of the team.
   
 
-- 🌱 I’m currently learning Next.JS, Prisma and PostgreSQL  
+- 🌱 I’m currently working on new projects with friends.
   
 
 - ⚡ Fun fact: I like to eat 🍣  
